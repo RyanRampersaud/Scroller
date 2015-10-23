@@ -16,3 +16,7 @@ html, body {
     margin-left: -67px;
     -webkit-transform: rotate(60deg);
 }
+.boxed{
+    height:18000px;
+    width: 100%;
+}
